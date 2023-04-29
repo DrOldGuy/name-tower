@@ -16,8 +16,7 @@ The rules of a name tower are as follows:
  * The number of characters in each row is: row * 2 - 1.
  * Spaces  _within_  the name are replaced by asterisks.
  * Names are converted to uppercase.
- * The last row is lengthened to the correct length by asterisks if
- * necessary.
+ * The last row is lengthened to the correct length by asterisks if necessary.
  * Characters in each row are separated by spaces.
  * Characters in each row are centered in the row.
 
